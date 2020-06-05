@@ -1,8 +1,8 @@
 var text="hello world,this is ";
 var fullname="oluwafemi adeoye adeyemi";
-var text1="with "
+var text1="with ";
 var id="HNG-04195 ";
-var text2="and mail"
+var text2="and mail";
 var email="adeoyefemi3@gmail.com";
 var text3="using ";
 var language="javascript ";
