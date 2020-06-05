@@ -1,4 +1,4 @@
-var text="hello world,Am ";
+var text="hello world,this is ";
 var fullname="Israel ";
 var word="from ";
 var company="HNGi7 ";
