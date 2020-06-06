@@ -1,9 +1,9 @@
-import json
-name= "Banjo Oluwatimilehin"
-id= "HNG-05539"
-email="timmybanjo@gmail.com"
-# a python dictionary
-def returnjson():
-    python2json = json.dumps("Hello World, this is "+name+" with HNGI7 ID: "+id+" and email "+email+" using Python for stage 2 task")
-    print (python2json)
-returnjson()
+#Banjo Oluwatimilehin
+#Stage 2 Task
+
+name = "Banjo Oluwatimilehin Emmanuel"
+id = "HNG-05539"
+language = "python"
+email = "timmybanjo@gmail.com"
+
+print("Hello World, this is " + name + " with HNGi7 ID " + id + " and email " + email + " using " + language + " for stage 2 task")
